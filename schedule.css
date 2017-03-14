@@ -99,11 +99,6 @@ h1 {
 	padding: 10px 0;
 }
 
-h4 {
-	font-size: 40px;
-	font-weight: 300;
-}
-
 h5 {
 	font-size: 30px;
 	font-weight: 200;
@@ -181,11 +176,10 @@ thead {
 	color: darkgray;
 }
 
-p {
+h4 {
 	font-weight: 200px;
 	color: dimgray;
 	font-size: 20px;
-	display: block;
 	font-weight: 200;
 }
 
